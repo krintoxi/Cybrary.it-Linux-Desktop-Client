@@ -1,6 +1,6 @@
 # Cybrary.it Linux Desktop Client
 ——————–<br>
-<b>Install Instructions<b><br>
+<b>Install Instructions</b><br>
 ——————–<br>
 <br><b>(1)</b>Download Client : https://github.com/krintoxi/Cybrary.it-Linux-Desktop-Client/blob/master/cybrary-itdesktopapplication_0.0.1-3_all.deb
 <br><b>(2)</b>Install Gdebi: sudo apt-get install gdebi
