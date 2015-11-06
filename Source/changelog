@@ -1,0 +1,33 @@
+cybrary-itdesktopapplication (0.0.1-3) unstable; urgency=low
+
+  * Added the following configuration:
+  * WebSettings.IconDatabase.Path = File.Dir(File.Dir(Temp$()))
+  * WebSettings.Fonts.FixedFont = "Monospace"
+  * WebSettings[WebSettings.PluginsEnabled] = True
+  * WebSettings[WebSettings.JavascriptEnabled] = True
+  * WebSettings[WebSettings.JavaEnabled] = True
+  * WebSettings.Fonts.DefaultFontSize = 12
+  * WebSettings.Fonts.DefaultFixedFontSize = 12
+  * WebSettings[WebSettings.JavascriptCanOpenWindows] = True
+  * WebSettings[WebSettings.LocalStorageDatabaseEnabled] = True
+  * WebSettings[WebSettings.OfflineStorageDatabaseEnabled] = True
+  * WebSettings[WebSettings.Cache.Enabled] = True
+  * WebSettings[WebSettings.OfflineWebApplicationCacheEnabled] = True
+  * WebSettings[WebSettings.PrivateBrowsingEnabled] = True
+
+ -- The_Chosen_One <info@cybrary.it>  Thu, 05 Nov 2015 12:00:00 +0000
+
+cybrary-itdesktopapplication (0.0.1-3) unstable; urgency=low
+
+  * Added Tor Support
+  * Added Basic Landing Page
+  * Added Tor Status Check
+
+ -- The_Chosen_One <info@cybrary.it>  Thu, 05 Nov 2015 12:00:00 +0000
+
+cybrary-itdesktopapplication (0.0.1-3) unstable; urgency=low
+
+  * Initial release
+
+ -- The_Chosen_One <info@cybrary.it>  Tue, 03 Nov 2015 12:00:00 +0000
+

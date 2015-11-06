@@ -1,0 +1,13 @@
+Source: cybrary-itdesktopapplication
+Section: contrib/web
+Priority: optional
+Maintainer: The_Chosen_One <info@cybrary.it>
+Build-Depends: debhelper (>= 5.0.0), gambas3-dev (>= 3.5), gambas3-dev (<< 3.99.0), gambas3-gb-image (>= 3.5), gambas3-gb-image (<< 3.99.0), gambas3-gb-qt4 (>= 3.5), gambas3-gb-qt4 (<< 3.99.0), gambas3-gb-form (>= 3.5), gambas3-gb-form (<< 3.99.0), gambas3-gb-qt4-ext (>= 3.5), gambas3-gb-qt4-ext (<< 3.99.0), gambas3-gb-qt4-webkit (>= 3.5), gambas3-gb-qt4-webkit (<< 3.99.0), gambas3-gb-web (>= 3.5), gambas3-gb-web (<< 3.99.0)
+Standards-Version: 3.7.2
+
+Package: cybrary-itdesktopapplication
+Architecture: all
+Depends: gambas3-runtime (>= 3.5), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.5), gambas3-gb-image (<< 3.99.0), gambas3-gb-qt4 (>= 3.5), gambas3-gb-qt4 (<< 3.99.0), gambas3-gb-form (>= 3.5), gambas3-gb-form (<< 3.99.0), gambas3-gb-qt4-ext (>= 3.5), gambas3-gb-qt4-ext (<< 3.99.0), gambas3-gb-qt4-webkit (>= 3.5), gambas3-gb-qt4-webkit (<< 3.99.0), gambas3-gb-web (>= 3.5), gambas3-gb-web (<< 3.99.0)
+Description: Cybrary.it Desktop Application
+ Cybrary is a free, open source, online Cyber Security training environment for the world. We are dedicated to keeping the world’s IT professionals prepared for this ever changing information security industry and its technologies. You can learn almost anything security related to either start a new career in the field or advance in your current infosec career. Check it out:
+ This program is written in Gambas

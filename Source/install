@@ -1,0 +1,4 @@
+src/Cybrary.itDesktopApplication/Cybrary.itDesktopApplication usr/bin
+src/Cybrary.itDesktopApplication/cybrary-itdesktopapplication.png usr/share/pixmaps
+debian/cybrary-itdesktopapplication.desktop usr/share/applications
+

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Cybrary.it Desktop Application
+Comment=Cybrary is a free, open source, online Cyber Security training environment for the world. We are dedicated to keeping the world’s IT professionals prepared for this ever changing information security industry and its technologies. You can learn almost anything security related to either start a new career in the field or advance in your current infosec career. Check it out:
+Exec=/usr/bin/Cybrary.itDesktopApplication
+Icon=/usr/share/pixmaps/cybrary-itdesktopapplication.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;

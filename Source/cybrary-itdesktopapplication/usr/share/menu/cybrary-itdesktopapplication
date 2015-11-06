@@ -1,0 +1,4 @@
+?package(cybrary-itdesktopapplication):needs="X11" section="Applications/Education"\
+title="Cybrary.it Desktop Application"\
+command="/usr/bin/cybrary-itdesktopapplication"\
+icon="/usr/share/pixmaps/cybrary-itdesktopapplication.png"
